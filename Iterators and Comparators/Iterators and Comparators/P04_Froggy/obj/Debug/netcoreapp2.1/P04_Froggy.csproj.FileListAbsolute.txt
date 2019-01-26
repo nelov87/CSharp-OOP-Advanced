@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\bin\Debug\netcoreapp2.1\P04_Froggy.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\bin\Debug\netcoreapp2.1\P04_Froggy.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\bin\Debug\netcoreapp2.1\P04_Froggy.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\bin\Debug\netcoreapp2.1\P04_Froggy.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\bin\Debug\netcoreapp2.1\P04_Froggy.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.pdb

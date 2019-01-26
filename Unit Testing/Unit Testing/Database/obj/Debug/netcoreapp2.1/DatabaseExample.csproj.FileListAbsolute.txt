@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\bin\Debug\netcoreapp2.1\DatabaseExample.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\bin\Debug\netcoreapp2.1\DatabaseExample.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\bin\Debug\netcoreapp2.1\DatabaseExample.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\bin\Debug\netcoreapp2.1\DatabaseExample.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\bin\Debug\netcoreapp2.1\DatabaseExample.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Unit Testing\Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.pdb

@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\obj\Debug\netcoreapp2.1\P07_CustomList.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\obj\Debug\netcoreapp2.1\P07_CustomList.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\obj\Debug\netcoreapp2.1\P07_CustomList.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\obj\Debug\netcoreapp2.1\P07_CustomList.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\bin\Debug\netcoreapp2.1\P07_CustomList.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\bin\Debug\netcoreapp2.1\P07_CustomList.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\bin\Debug\netcoreapp2.1\P07_CustomList.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\bin\Debug\netcoreapp2.1\P07_CustomList.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\bin\Debug\netcoreapp2.1\P07_CustomList.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\obj\Debug\netcoreapp2.1\P07_CustomList.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P07_CustomList\obj\Debug\netcoreapp2.1\P07_CustomList.pdb

@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\bin\Debug\netcoreapp2.1\P01_Logger.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\bin\Debug\netcoreapp2.1\P01_Logger.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\bin\Debug\netcoreapp2.1\P01_Logger.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\bin\Debug\netcoreapp2.1\P01_Logger.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\bin\Debug\netcoreapp2.1\P01_Logger.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\obj\Debug\netcoreapp2.1\P01_Logger.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\obj\Debug\netcoreapp2.1\P01_Logger.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\obj\Debug\netcoreapp2.1\P01_Logger.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\obj\Debug\netcoreapp2.1\P01_Logger.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\obj\Debug\netcoreapp2.1\P01_Logger.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\ExerciseSOLID\Logger\obj\Debug\netcoreapp2.1\P01_Logger.pdb

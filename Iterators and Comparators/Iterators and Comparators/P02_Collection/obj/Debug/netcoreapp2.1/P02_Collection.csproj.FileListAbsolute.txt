@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\bin\Debug\netcoreapp2.1\P02_Collection.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\bin\Debug\netcoreapp2.1\P02_Collection.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\bin\Debug\netcoreapp2.1\P02_Collection.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\bin\Debug\netcoreapp2.1\P02_Collection.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\bin\Debug\netcoreapp2.1\P02_Collection.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\obj\Debug\netcoreapp2.1\P02_Collection.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\obj\Debug\netcoreapp2.1\P02_Collection.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\obj\Debug\netcoreapp2.1\P02_Collection.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\obj\Debug\netcoreapp2.1\P02_Collection.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\obj\Debug\netcoreapp2.1\P02_Collection.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P02_Collection\obj\Debug\netcoreapp2.1\P02_Collection.pdb

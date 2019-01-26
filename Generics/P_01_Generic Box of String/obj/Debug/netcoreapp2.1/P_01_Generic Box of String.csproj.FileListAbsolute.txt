@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\bin\Debug\netcoreapp2.1\P_01_Generic Box of String.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\bin\Debug\netcoreapp2.1\P_01_Generic Box of String.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\bin\Debug\netcoreapp2.1\P_01_Generic Box of String.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\bin\Debug\netcoreapp2.1\P_01_Generic Box of String.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\bin\Debug\netcoreapp2.1\P_01_Generic Box of String.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\obj\Debug\netcoreapp2.1\P_01_Generic Box of String.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\obj\Debug\netcoreapp2.1\P_01_Generic Box of String.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\obj\Debug\netcoreapp2.1\P_01_Generic Box of String.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\obj\Debug\netcoreapp2.1\P_01_Generic Box of String.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\obj\Debug\netcoreapp2.1\P_01_Generic Box of String.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P_01_Generic Box of String\obj\Debug\netcoreapp2.1\P_01_Generic Box of String.pdb

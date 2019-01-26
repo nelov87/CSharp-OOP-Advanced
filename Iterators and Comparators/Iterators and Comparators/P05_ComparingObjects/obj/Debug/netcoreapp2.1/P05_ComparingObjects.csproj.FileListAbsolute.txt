@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\bin\Debug\netcoreapp2.1\P05_ComparingObjects.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\bin\Debug\netcoreapp2.1\P05_ComparingObjects.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\bin\Debug\netcoreapp2.1\P05_ComparingObjects.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\bin\Debug\netcoreapp2.1\P05_ComparingObjects.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\bin\Debug\netcoreapp2.1\P05_ComparingObjects.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\obj\Debug\netcoreapp2.1\P05_ComparingObjects.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\obj\Debug\netcoreapp2.1\P05_ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\obj\Debug\netcoreapp2.1\P05_ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\obj\Debug\netcoreapp2.1\P05_ComparingObjects.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\obj\Debug\netcoreapp2.1\P05_ComparingObjects.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P05_ComparingObjects\obj\Debug\netcoreapp2.1\P05_ComparingObjects.pdb

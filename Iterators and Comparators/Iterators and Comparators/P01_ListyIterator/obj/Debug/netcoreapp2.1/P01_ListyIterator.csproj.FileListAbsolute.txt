@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\bin\Debug\netcoreapp2.1\P01_ListyIterator.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\bin\Debug\netcoreapp2.1\P01_ListyIterator.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\bin\Debug\netcoreapp2.1\P01_ListyIterator.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\bin\Debug\netcoreapp2.1\P01_ListyIterator.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\bin\Debug\netcoreapp2.1\P01_ListyIterator.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\obj\Debug\netcoreapp2.1\P01_ListyIterator.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\obj\Debug\netcoreapp2.1\P01_ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\obj\Debug\netcoreapp2.1\P01_ListyIterator.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\obj\Debug\netcoreapp2.1\P01_ListyIterator.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\obj\Debug\netcoreapp2.1\P01_ListyIterator.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P01_ListyIterator\obj\Debug\netcoreapp2.1\P01_ListyIterator.pdb

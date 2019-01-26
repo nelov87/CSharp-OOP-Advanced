@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\bin\Debug\netcoreapp2.1\P03_Stack.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\bin\Debug\netcoreapp2.1\P03_Stack.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\bin\Debug\netcoreapp2.1\P03_Stack.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\bin\Debug\netcoreapp2.1\P03_Stack.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\bin\Debug\netcoreapp2.1\P03_Stack.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.pdb

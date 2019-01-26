@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\bin\Debug\netcoreapp2.1\P10_Tuple.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\bin\Debug\netcoreapp2.1\P10_Tuple.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\bin\Debug\netcoreapp2.1\P10_Tuple.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\bin\Debug\netcoreapp2.1\P10_Tuple.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\bin\Debug\netcoreapp2.1\P10_Tuple.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\obj\Debug\netcoreapp2.1\P10_Tuple.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\obj\Debug\netcoreapp2.1\P10_Tuple.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\obj\Debug\netcoreapp2.1\P10_Tuple.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\obj\Debug\netcoreapp2.1\P10_Tuple.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\obj\Debug\netcoreapp2.1\P10_Tuple.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P10_Tuple\obj\Debug\netcoreapp2.1\P10_Tuple.pdb

@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\bin\Debug\netcoreapp2.1\P03_GenericSwapMethodString.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\bin\Debug\netcoreapp2.1\P03_GenericSwapMethodString.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\bin\Debug\netcoreapp2.1\P03_GenericSwapMethodString.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\bin\Debug\netcoreapp2.1\P03_GenericSwapMethodString.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\bin\Debug\netcoreapp2.1\P03_GenericSwapMethodString.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\P03_GenericSwapMethodString.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\P03_GenericSwapMethodString.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\P03_GenericSwapMethodString.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\P03_GenericSwapMethodString.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\P03_GenericSwapMethodString.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\P03_GenericSwapMethodString.pdb

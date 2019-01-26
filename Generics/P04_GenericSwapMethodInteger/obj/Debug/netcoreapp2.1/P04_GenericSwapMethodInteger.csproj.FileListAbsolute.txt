@@ -1,0 +1,10 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P04_GenericSwapMethodInteger\bin\Debug\netcoreapp2.1\P04_GenericSwapMethodInteger.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P04_GenericSwapMethodInteger\bin\Debug\netcoreapp2.1\P04_GenericSwapMethodInteger.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P04_GenericSwapMethodInteger\bin\Debug\netcoreapp2.1\P04_GenericSwapMethodInteger.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P04_GenericSwapMethodInteger\bin\Debug\netcoreapp2.1\P04_GenericSwapMethodInteger.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P04_GenericSwapMethodInteger\bin\Debug\netcoreapp2.1\P04_GenericSwapMethodInteger.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P04_GenericSwapMethodInteger\obj\Debug\netcoreapp2.1\P04_GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P04_GenericSwapMethodInteger\obj\Debug\netcoreapp2.1\P04_GenericSwapMethodInteger.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P04_GenericSwapMethodInteger\obj\Debug\netcoreapp2.1\P04_GenericSwapMethodInteger.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P04_GenericSwapMethodInteger\obj\Debug\netcoreapp2.1\P04_GenericSwapMethodInteger.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P04_GenericSwapMethodInteger\obj\Debug\netcoreapp2.1\P04_GenericSwapMethodInteger.pdb

@@ -1,0 +1,10 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P05_GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05_GenericCountMethodStrings.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P05_GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05_GenericCountMethodStrings.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P05_GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05_GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P05_GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05_GenericCountMethodStrings.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P05_GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05_GenericCountMethodStrings.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P05_GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05_GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P05_GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05_GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P05_GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05_GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P05_GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05_GenericCountMethodStrings.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P05_GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05_GenericCountMethodStrings.pdb

@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\bin\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\bin\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\bin\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\bin\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\bin\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\obj\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\obj\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\obj\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\obj\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\obj\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P02_GenericBoxOfInteger\obj\Debug\netcoreapp2.1\P02_GenericBoxOfInteger.pdb

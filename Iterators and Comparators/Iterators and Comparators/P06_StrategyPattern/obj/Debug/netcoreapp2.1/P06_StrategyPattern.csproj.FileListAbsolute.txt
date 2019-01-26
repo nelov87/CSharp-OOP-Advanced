@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\obj\Debug\netcoreapp2.1\P06_StrategyPattern.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\obj\Debug\netcoreapp2.1\P06_StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\obj\Debug\netcoreapp2.1\P06_StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\obj\Debug\netcoreapp2.1\P06_StrategyPattern.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\bin\Debug\netcoreapp2.1\P06_StrategyPattern.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\bin\Debug\netcoreapp2.1\P06_StrategyPattern.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\bin\Debug\netcoreapp2.1\P06_StrategyPattern.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\bin\Debug\netcoreapp2.1\P06_StrategyPattern.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\bin\Debug\netcoreapp2.1\P06_StrategyPattern.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\obj\Debug\netcoreapp2.1\P06_StrategyPattern.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators\P06_StrategyPattern\obj\Debug\netcoreapp2.1\P06_StrategyPattern.pdb

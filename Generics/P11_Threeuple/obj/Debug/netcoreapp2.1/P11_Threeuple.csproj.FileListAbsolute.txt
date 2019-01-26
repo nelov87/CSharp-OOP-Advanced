@@ -1,0 +1,11 @@
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\bin\Debug\netcoreapp2.1\P11_Threeuple.deps.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\bin\Debug\netcoreapp2.1\P11_Threeuple.runtimeconfig.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\bin\Debug\netcoreapp2.1\P11_Threeuple.runtimeconfig.dev.json
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\bin\Debug\netcoreapp2.1\P11_Threeuple.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\bin\Debug\netcoreapp2.1\P11_Threeuple.pdb
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\obj\Debug\netcoreapp2.1\P11_Threeuple.csprojAssemblyReference.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\obj\Debug\netcoreapp2.1\P11_Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\obj\Debug\netcoreapp2.1\P11_Threeuple.AssemblyInfoInputs.cache
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\obj\Debug\netcoreapp2.1\P11_Threeuple.AssemblyInfo.cs
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\obj\Debug\netcoreapp2.1\P11_Threeuple.dll
+C:\Users\IvayloNelov\source\repos\C# OOP Advanced\Generics\P11_Threeuple\obj\Debug\netcoreapp2.1\P11_Threeuple.pdb
