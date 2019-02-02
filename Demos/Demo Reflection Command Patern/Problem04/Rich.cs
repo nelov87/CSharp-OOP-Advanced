@@ -6,10 +6,10 @@ namespace Problem04
 {
     public class Rich
     {
-        public Rich()
-        {
+        //public Rich()
+        //{
 
-        }
+        //}
 
         public Rich(string protectedAddress)
         {
